@@ -1,0 +1,17 @@
+{
+  "name": "playwright-react-18",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "react-17",
+    "react-18"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.21.1"
+  }
+}
